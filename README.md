@@ -1,2 +1,2 @@
 # Activity with Containers
-This activity was done during the classes of Web Programming
+This activity was done during classes of Web Programming
